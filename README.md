@@ -1,4 +1,4 @@
-Very basic RabbitMQ publisher/subscriber using .NET 5 Console application
+Very basic RabbitMQ publisher/subscriber using .NET 5 Console application. One console application will publish a message to RabbitMq. Another console app will listen the queue and output the message in console window
 
 Dependencies : 
 - Install .NET 5 on a VS2019 machine : https://www.claudiobernasconi.ch/2020/10/21/install-and-use-csharp-9-in-visual-studio-2019/
