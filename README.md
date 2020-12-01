@@ -1,1 +1,4 @@
-# aspnetcore-simple-rabbitmq-consumer-receiver
+- Setup Visual Studio for .NET 5
+- Setup Docker in Windows machine
+- Setup RabbitMQ
+- Create consumer/receiver app
