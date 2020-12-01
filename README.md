@@ -1,4 +1,3 @@
-- Setup Visual Studio for .NET 5
-- Setup Docker in Windows machine
-- Setup RabbitMQ
-- Create consumer/receiver app
+- Install .net5 with VS2019 : https://www.claudiobernasconi.ch/2020/10/21/install-and-use-csharp-9-in-visual-studio-2019/
+- Setup RabbitMQ with Docker in Windows machine : https://medium.com/dev-genius/rabbitmq-with-docker-on-windows-in-30-minutes-172e88bb0808
+- Create consumer/receiver app : https://www.youtube.com/watch?v=w84uFSwulBI
